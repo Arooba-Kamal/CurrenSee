@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "68772374307",
+    "project_id": "currensee-71845",
+    "storage_bucket": "currensee-71845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68772374307:android:751399d94246e1d0e04e96",
+        "android_client_info": {
+          "package_name": "com.example.currensee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68772374307-3dh383ib4p18v27d3a3gnnvep15m0t4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJalBGwc2BCKU0jhSeOon_-Wv0hNsTE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68772374307-3dh383ib4p18v27d3a3gnnvep15m0t4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68772374307-jsugk70ntvka30d4072l385r3ql1gh69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.currensee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

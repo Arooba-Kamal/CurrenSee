@@ -1,0 +1,93 @@
+name: currensee
+description: "Smart Currency Converter - Real-time Rates, Smarter Decisions."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.7.0
+  google_generative_ai: ^0.4.0
+  
+  # Firebase
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.1.4
+  
+  # UI, Fonts & State Management
+  google_fonts: ^6.2.0
+  provider: ^6.1.1
+  
+  # Icons
+  cupertino_icons: ^1.0.8
+  
+  # Additional useful packages for CurrenSee
+  intl: ^0.18.1  # Downgraded to fix conflict
+  shared_preferences: ^2.2.3
+  connectivity_plus: ^6.0.3
+  http: ^1.6.0
+  flutter_secure_storage: ^9.2.2
+  
+  # Charts & Visualization
+  fl_chart: ^0.68.0
+  syncfusion_flutter_charts: ^25.2.7
+  
+  # QR Code
+  qr_flutter: ^4.1.0
+  
+  # PDF Export
+  pdf: ^3.10.8
+  printing: ^5.11.1
+  
+  # Biometric Authentication
+  local_auth: ^2.2.0
+  
+  # Animations
+  shimmer: ^3.0.0
+  flutter_animate: ^4.5.0
+  
+  # URL Launcher
+  url_launcher: ^6.3.0
+  
+  # Image Picker
+  image_picker: ^1.0.8
+  
+  # File Handling
+  path_provider: ^2.1.3
+  share_plus: ^9.0.0
+  
+  # Notification
+  flutter_local_notifications: ^17.1.2
+  firebase_messaging: ^15.0.0
+  
+  # Charts & Graphs
+  pie_chart: ^5.4.0
+  
+  # App Settings
+  device_info_plus: ^10.1.0
+  package_info_plus: ^8.0.0
+  
+   # ✅ CLOUDINARY
+  cloudinary_public: ^0.23.1 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  
+  # For generating Firebase options - Remove this if not needed
+  # flutterfire_cli: ^1.0.0  # COMMENTED OUT - Use flutterfire configure command instead
+
+flutter:
+  uses-material-design: true
+  
+  # Assets
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+    - assets/data/
+
