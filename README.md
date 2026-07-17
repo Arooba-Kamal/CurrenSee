@@ -201,7 +201,7 @@ Designed with a premium **Glassmorphism UI**, smooth animations, and Firebase in
 - ✅ Smooth Animations
 - ✅ Responsive Design
 
----# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 CurrenSee
@@ -215,7 +215,7 @@ CurrenSee
 │
 ├── assets/
 │   ├── data/
-│   └── screenshots/    # All app screenshots
+│   └── screenshots/   
 │
 ├── lib/
 │   ├── core/
@@ -242,14 +242,11 @@ CurrenSee
 │   │   └── splash/
 │   │
 │   ├── widgets/
-│   │
 │   ├── firebase_options.dart
 │   └── main.dart
 │
 ├── pubspec.yaml
 └── README.md
-```
-
 ---
 
 # 🚀 Getting Started
