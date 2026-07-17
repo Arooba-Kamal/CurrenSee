@@ -303,14 +303,14 @@ Passionate about building modern mobile applications using Flutter, Firebase, RE
 
 # 💙 Acknowledgements
 
-Special thanks to:
+This project wouldn't have been possible without these amazing technologies:
 
-- Flutter Team
-- Firebase
-- Google Gemini AI
-- ExchangeRate API
-- Open Source Community ❤️
-
+- 💙 Flutter Team
+- 🔥 Firebase
+- ☁️ Cloudinary
+- 🤖 Google Gemini AI
+- 💱 ExchangeRate API
+- 🌍 Open Source Community ❤️
 ---
 
 <div align="center">
