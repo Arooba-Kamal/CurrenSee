@@ -1,5 +1,3 @@
----
-
 # 📑 Table of Contents
 
 - [📖 About](#-about)
@@ -104,86 +102,61 @@ Designed with a premium **Glassmorphism UI**, smooth animations, and Firebase in
 
 <div align="center">
 
-## 🚀 Splash & Authentication
+# 📸 App Screenshots
 
-| Splash | Login | Register |
-|--------|--------|----------|
-| <img src="assets/screenshots/splash.jpeg" width="220"> | <img src="assets/screenshots/login.jpeg" width="220"> | <img src="assets/screenshots/register.jpeg" width="220"> |
+<div align="center">
 
----
+## 🚀 Splash Screen
 
-## 🏠 Main Screens
-
-| Home | Dashboard | More |
-|------|-----------|------|
-| <img src="assets/screenshots/home.jpeg" width="220"> | <img src="assets/screenshots/dashboard.jpeg" width="220"> | <img src="assets/screenshots/more.jpeg" width="220"> |
-| Converter | Live Rates | Offline |
-|-----------|------------|----------|
-| <img src="assets/screenshots/converter.jpeg" width="220"> | <img src="assets/screenshots/live_rates.jpeg" width="220"> | <img src="assets/screenshots/offline.jpeg" width="220"> |
+<img src="assets/screenshots/splash.jpeg" width="260">
 
 ---
 
-## 🤖 AI Assistant
+## 🔐 Login
 
-| AI Chatbot |
-|------------|
-| <img src="assets/screenshots/chatbot.jpeg" width="260"> |
+<img src="assets/screenshots/login.jpeg" width="260">
 
 ---
 
-## 📈 Market & Analytics
+## 🏠 Dashboard
 
-| Market News | Crypto | Gold |
-|-------------|---------|------|
-| <img src="assets/screenshots/market_news.jpeg" width="220"> | <img src="assets/screenshots/crypto.jpeg" width="220"> | <img src="assets/screenshots/gold.jpeg" width="220"> |
-
-| Exchange Chart | Trends |
-|----------------|--------|
-| <img src="assets/screenshots/chart.jpeg" width="220"> | <img src="assets/screenshots/trends.jpeg" width="220"> |
+<img src="assets/screenshots/dashboard.jpeg" width="260">
 
 ---
 
-## 💼 Budget Planner
+## 💱 Currency Converter
 
-| Budget Planner | Spending Tracker | Travel Estimator |
-|----------------|------------------|------------------|
-| <img src="assets/screenshots/budget.jpeg" width="220"> | <img src="assets/screenshots/spending.jpeg" width="220"> | <img src="assets/screenshots/travel.jpeg" width="220"> |
+<img src="assets/screenshots/converter.jpeg" width="260">
 
 ---
 
-## 📂 History
+## 🤖 AI Chatbot
 
-| Conversion History | PDF Export |
-|--------------------|------------|
-| <img src="assets/screenshots/history.jpeg" width="220"> | <img src="assets/screenshots/pdf.jpeg" width="220"> |
+<img src="assets/screenshots/chatbot.jpeg" width="260">
 
 ---
 
-## 🔔 Notifications
+## 🔔 Smart Alerts
 
-| Notifications | Smart Alerts |
-|---------------|--------------|
-| <img src="assets/screenshots/notifications.jpeg" width="220"> | <img src="assets/screenshots/alerts.jpeg" width="220"> |
+<img src="assets/screenshots/alerts.jpeg" width="260">
 
 ---
 
 ## 👤 User Profile
 
-| Profile |
-|---------|
-| <img src="assets/screenshots/profile.jpeg" width="260"> |
+<img src="assets/screenshots/profile.jpeg" width="260">
+
+---
+
+## 📊 Analytics
+
+<img src="assets/screenshots/analytics.jpeg" width="260">
 
 ---
 
 ## 👨‍💼 Admin Panel
 
-| Dashboard | Users | Reports |
-|------------|-------|----------|
-| <img src="assets/screenshots/admin_dashboard.jpeg" width="220"> | <img src="assets/screenshots/manage_users.jpeg" width="220"> | <img src="assets/screenshots/reports.jpeg" width="220"> |
-
-| Analytics | Feedback | Settings |
-|------------|----------|----------|
-| <img src="assets/screenshots/analytics.jpeg" width="220"> | <img src="assets/screenshots/feedback.jpeg" width="220"> | <img src="assets/screenshots/admin_settings.jpeg" width="220"> |
+<img src="assets/screenshots/admin.jpeg" width="260">
 
 </div>
 
