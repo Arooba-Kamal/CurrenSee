@@ -118,7 +118,7 @@ Designed with a premium **Glassmorphism UI**, smooth animations, and Firebase in
 
 ---
 
-## 🏠 Dashboard
+## 🏠 Home
 
 <img src="assets/screenshots/dashboard.jpeg" width="260">
 
@@ -136,7 +136,7 @@ Designed with a premium **Glassmorphism UI**, smooth animations, and Firebase in
 
 ---
 
-## 🔔 Smart Alerts
+## 🔔 Notifications
 
 <img src="assets/screenshots/alerts.jpeg" width="260">
 
@@ -201,61 +201,6 @@ Designed with a premium **Glassmorphism UI**, smooth animations, and Firebase in
 - ✅ Smooth Animations
 - ✅ Responsive Design
 
-## 📂 Project Structure
-
-```text
-CurrenSee
-│
-├── android/
-├── ios/
-├── linux/
-├── macos/
-├── windows/
-├── web/
-│
-├── assets/
-│   ├── data/
-│   └── screenshots/   
-│
-├── lib/
-│   ├── core/
-│   │   ├── models/
-│   │   ├── providers/
-│   │   ├── services/
-│   │   ├── theme/
-│   │   └── utils/
-│   │
-│   ├── screens/
-│   │   ├── admin/
-│   │   ├── alerts/
-│   │   ├── auth/
-│   │   ├── calculator/
-│   │   ├── chatbot/
-│   │   ├── converter/
-│   │   ├── currency/
-│   │   ├── history/
-│   │   ├── home/
-│   │   ├── market/
-│   │   ├── onboarding/
-│   │   ├── planner/
-│   │   ├── settings/
-│   │   └── splash/
-│   │
-│   ├── widgets/
-│   ├── firebase_options.dart
-│   └── main.dart
-│
-├── pubspec.yaml
-└── README.md
----
-
-# 🚀 Getting Started
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/Arooba-Kamal/CurrenSee.git
-```
 
 ---
 
